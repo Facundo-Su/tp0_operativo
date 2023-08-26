@@ -13,8 +13,8 @@
 
 t_log* iniciar_logger(void);
 t_config* iniciar_config(void);
-void leer_consola(t_log*);
+void leer_consola(t_log*,void (*funcion)(t_log*, char*));
 void paquete(int);
 void terminar_programa(int, t_log*, t_config*);
-
+void registrarLog(t_log*,char*);
 #endif /* CLIENT_H_ */
