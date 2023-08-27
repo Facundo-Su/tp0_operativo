@@ -1,0 +1,27 @@
+[INFO] 21:35:52:758 Servidor/(26629:26629): Servidor listo para recibir al cliente
+[INFO] 21:36:06:986 Servidor/(26629:26629): Se conecto un cliente!
+[INFO] 21:36:06:987 Servidor/(26629:26629): Me llego el mensaje valor
+[INFO] 21:36:34:435 Servidor/(26629:26629): Me llegaron los siguientes valores:
+
+[INFO] 21:36:34:435 Servidor/(26629:26629): holazU
+[INFO] 21:36:34:435 Servidor/(26629:26629): como
+[INFO] 21:36:34:435 Servidor/(26629:26629): estas
+[ERROR] 21:36:34:435 Servidor/(26629:26629): el cliente se desconecto. Terminando servidor
+[INFO] 21:44:54:465 Servidor/(26819:26819): Servidor listo para recibir al cliente
+[INFO] 21:45:53:255 Servidor/(26819:26819): Se conecto un cliente!
+[INFO] 21:45:53:255 Servidor/(26819:26819): Me llego el mensaje valor
+[INFO] 21:46:08:447 Servidor/(26819:26819): Me llegaron los siguientes valores:
+
+[INFO] 21:46:08:447 Servidor/(26819:26819): holadU
+[INFO] 21:46:08:447 Servidor/(26819:26819): como
+[INFO] 21:46:08:447 Servidor/(26819:26819): estas
+[ERROR] 21:46:08:447 Servidor/(26819:26819): el cliente se desconecto. Terminando servidor
+[INFO] 21:46:43:849 Servidor/(26889:26889): Servidor listo para recibir al cliente
+[INFO] 21:47:02:439 Servidor/(26889:26889): Se conecto un cliente!
+[INFO] 21:47:11:712 Servidor/(26889:26889): Me llego el mensaje valor
+[INFO] 21:48:20:639 Servidor/(26889:26889): Me llegaron los siguientes valores:
+
+[INFO] 21:48:20:640 Servidor/(26889:26889): holaV
+[INFO] 21:48:20:640 Servidor/(26889:26889): como
+[INFO] 21:48:20:640 Servidor/(26889:26889): estas
+[ERROR] 21:49:22:982 Servidor/(26889:26889): el cliente se desconecto. Terminando servidor

@@ -1,0 +1,82 @@
+[INFO] 21:30:50:753 Servidor/(197100:197100): Servidor listo para recibir al cliente
+[INFO] 21:30:50:753 Servidor/(197100:197100): Se conecto un cliente!
+[ERROR] 21:30:50:753 Servidor/(197100:197100): el cliente se desconecto. Terminando servidor
+[INFO] 21:30:56:729 Servidor/(197113:197113): Servidor listo para recibir al cliente
+[INFO] 21:30:56:729 Servidor/(197113:197113): Se conecto un cliente!
+[ERROR] 21:30:56:729 Servidor/(197113:197113): el cliente se desconecto. Terminando servidor
+[INFO] 21:31:14:253 Servidor/(197136:197136): Servidor listo para recibir al cliente
+[INFO] 21:31:14:253 Servidor/(197136:197136): Se conecto un cliente!
+[ERROR] 21:31:14:253 Servidor/(197136:197136): el cliente se desconecto. Terminando servidor
+[INFO] 21:32:29:298 Servidor/(197155:197155): Servidor listo para recibir al cliente
+[INFO] 21:32:29:298 Servidor/(197155:197155): Se conecto un cliente!
+[ERROR] 21:32:29:298 Servidor/(197155:197155): el cliente se desconecto. Terminando servidor
+[INFO] 22:44:09:085 Servidor/(198628:198628): Servidor listo para recibir al cliente
+[INFO] 22:44:16:442 Servidor/(198628:198628): Se conecto un cliente!
+[INFO] 22:44:37:200 Servidor/(198670:198670): Servidor listo para recibir al cliente
+[INFO] 22:45:00:686 Servidor/(198697:198697): Servidor listo para recibir al cliente
+[INFO] 22:46:00:222 Servidor/(198748:198748): Servidor listo para recibir al cliente
+[INFO] 22:46:06:164 Servidor/(198748:198748): Se conecto un cliente!
+[INFO] 22:46:38:768 Servidor/(198772:198772): Servidor listo para recibir al cliente
+[INFO] 22:47:56:311 Servidor/(198812:198812): Servidor listo para recibir al cliente
+[INFO] 22:48:07:930 Servidor/(198826:198826): Servidor listo para recibir al cliente
+[INFO] 22:48:10:070 Servidor/(198837:198837): Servidor listo para recibir al cliente
+[INFO] 22:49:23:674 Servidor/(198902:198902): Servidor listo para recibir al cliente
+[INFO] 22:50:30:539 Servidor/(199089:199089): Servidor listo para recibir al cliente
+[INFO] 22:50:42:023 Servidor/(199089:199089): Se conecto un cliente!
+[INFO] 23:13:19:990 Servidor/(199321:199321): Servidor listo para recibir al cliente
+[INFO] 23:13:22:082 Servidor/(199334:199334): Servidor listo para recibir al cliente
+[INFO] 23:18:18:188 Servidor/(199432:199432): Servidor listo para recibir al cliente
+[INFO] 23:18:32:529 Servidor/(199447:199447): Servidor listo para recibir al cliente
+[INFO] 23:23:04:014 Servidor/(199696:199696): Servidor listo para recibir al cliente
+[INFO] 23:23:29:166 Servidor/(199732:199732): Servidor listo para recibir al cliente
+[INFO] 23:24:02:162 Servidor/(199794:199794): Servidor listo para recibir al cliente
+[INFO] 23:49:20:581 Servidor/(200807:200807): Servidor listo para recibir al cliente
+[INFO] 23:52:24:037 Servidor/(200825:200825): Servidor listo para recibir al cliente
+[INFO] 23:52:40:302 Servidor/(200840:200840): Servidor listo para recibir al cliente
+[INFO] 23:52:46:820 Servidor/(200853:200853): Servidor listo para recibir al cliente
+[INFO] 23:52:48:530 Servidor/(200866:200866): Servidor listo para recibir al cliente
+[INFO] 23:52:49:057 Servidor/(200877:200877): Servidor listo para recibir al cliente
+[INFO] 23:52:51:898 Servidor/(200890:200890): Servidor listo para recibir al cliente
+[INFO] 23:53:17:957 Servidor/(200807:200807): Se conecto un cliente!
+[INFO] 23:55:08:561 Servidor/(201026:201026): Servidor listo para recibir al cliente
+[INFO] 23:55:46:050 Servidor/(201053:201053): Servidor listo para recibir al cliente
+[INFO] 23:56:11:305 Servidor/(201075:201075): Servidor listo para recibir al cliente
+[INFO] 23:56:21:988 Servidor/(201086:201086): Servidor listo para recibir al cliente
+[INFO] 23:56:28:912 Servidor/(201086:201086): Se conecto un cliente!
+[ERROR] 23:57:59:484 Servidor/(201086:201086): el cliente se desconecto. Terminando servidor
+[INFO] 23:59:46:934 Servidor/(201173:201173): Servidor listo para recibir al cliente
+[INFO] 23:59:52:551 Servidor/(201173:201173): Se conecto un cliente!
+[INFO] 23:59:52:551 Servidor/(201173:201173): Me llego el mensaje valor
+[INFO] 23:59:57:829 Servidor/(201173:201173): Me llegaron los siguientes valores:
+
+[INFO] 23:59:57:829 Servidor/(201173:201173): AS
+[ERROR] 23:59:57:829 Servidor/(201173:201173): el cliente se desconecto. Terminando servidor
+[INFO] 00:00:22:255 Servidor/(201380:201380): Servidor listo para recibir al cliente
+[INFO] 00:00:27:246 Servidor/(201380:201380): Se conecto un cliente!
+[INFO] 00:00:36:170 Servidor/(201380:201380): Me llegaron los siguientes valores:
+
+[INFO] 00:00:36:170 Servidor/(201380:201380): HOLA…U
+[INFO] 00:00:36:170 Servidor/(201380:201380): COMO
+[ERROR] 00:00:36:170 Servidor/(201380:201380): el cliente se desconecto. Terminando servidor
+[INFO] 00:01:13:282 Servidor/(201427:201427): Servidor listo para recibir al cliente
+[INFO] 00:01:21:087 Servidor/(201427:201427): Se conecto un cliente!
+[INFO] 00:01:21:087 Servidor/(201427:201427): Me llego el mensaje valor
+[INFO] 00:02:30:946 Servidor/(201542:201542): Servidor listo para recibir al cliente
+[INFO] 00:02:58:592 Servidor/(201566:201566): Servidor listo para recibir al cliente
+[INFO] 00:03:33:525 Servidor/(201604:201604): Servidor listo para recibir al cliente
+[INFO] 00:03:57:836 Servidor/(201646:201646): Servidor listo para recibir al cliente
+[INFO] 00:04:05:159 Servidor/(201646:201646): Se conecto un cliente!
+[ERROR] 00:04:19:967 Servidor/(201646:201646): el cliente se desconecto. Terminando servidor
+[INFO] 00:04:30:674 Servidor/(201686:201686): Servidor listo para recibir al cliente
+[INFO] 00:04:40:570 Servidor/(201686:201686): Se conecto un cliente!
+[ERROR] 00:04:42:622 Servidor/(201686:201686): el cliente se desconecto. Terminando servidor
+[INFO] 00:04:47:266 Servidor/(201708:201708): Servidor listo para recibir al cliente
+[INFO] 00:04:53:977 Servidor/(201708:201708): Se conecto un cliente!
+[ERROR] 00:05:07:365 Servidor/(201708:201708): el cliente se desconecto. Terminando servidor
+[INFO] 00:05:12:078 Servidor/(201731:201731): Servidor listo para recibir al cliente
+[INFO] 00:05:17:946 Servidor/(201731:201731): Se conecto un cliente!
+[INFO] 00:06:00:184 Servidor/(201731:201731): Me llegaron los siguientes valores:
+
+[INFO] 00:06:00:184 Servidor/(201731:201731): holaØU
+[INFO] 00:06:00:184 Servidor/(201731:201731): como
+[ERROR] 00:06:00:184 Servidor/(201731:201731): el cliente se desconecto. Terminando servidor
